@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73192" started-at="2017-12-09T23:29:07Z" finished-at="2017-12-09T23:30:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73192" started-at="2017-12-09T23:29:07Z" finished-at="2017-12-09T23:30:21Z">
+      <class name="com.cluster.test.smoke.LoginS13579">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cluster.test.smoke.LoginS13579@3e9b1010]" name="setUp" is-config="true" duration-ms="18518" started-at="2017-12-10T04:59:07Z" finished-at="2017-12-10T04:59:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTC155()[pri:0, instance:com.cluster.test.smoke.LoginS13579@3e9b1010]" name="loginTC155" duration-ms="27306" started-at="2017-12-10T04:59:26Z" finished-at="2017-12-10T04:59:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTC155 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cluster.test.smoke.LoginS13579@3e9b1010]" name="tearDown" is-config="true" duration-ms="405" started-at="2017-12-10T04:59:53Z" finished-at="2017-12-10T04:59:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.cluster.test.smoke.LoginS13579 -->
+      <class name="com.cluster.test.smoke.LoginS13789">
+        <test-method status="PASS" signature="preSetUp()[pri:0, instance:com.cluster.test.smoke.LoginS13789@3632be31]" name="preSetUp" is-config="true" duration-ms="36" started-at="2017-12-10T04:59:07Z" finished-at="2017-12-10T04:59:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cluster.test.smoke.LoginS13789@3632be31]" name="setUp" is-config="true" duration-ms="16051" started-at="2017-12-10T04:59:54Z" finished-at="2017-12-10T05:00:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTC182()[pri:0, instance:com.cluster.test.smoke.LoginS13789@3632be31]" name="testTC182" duration-ms="10894" started-at="2017-12-10T05:00:10Z" finished-at="2017-12-10T05:00:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTC182 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cluster.test.smoke.LoginS13789@3632be31]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-12-10T05:00:21Z" finished-at="2017-12-10T05:00:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="postExecution()[pri:0, instance:com.cluster.test.smoke.LoginS13789@3632be31]" name="postExecution" is-config="true" duration-ms="0" started-at="2017-12-10T05:00:21Z" finished-at="2017-12-10T05:00:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postExecution -->
+      </class> <!-- com.cluster.test.smoke.LoginS13789 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
